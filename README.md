@@ -1,4 +1,5 @@
 # Sample NodeJS application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/aevelascop-azure/applaudo-studios-devops-test/_apis/build/status/applaudo-studios-devops-test-rg%20-%20CI?branchName=develop)](https://dev.azure.com/aevelascop-azure/applaudo-studios-devops-test/_build/latest?definitionId=1?branchName=develop)
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
