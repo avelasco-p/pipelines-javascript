@@ -1,5 +1,4 @@
 # Sample NodeJS application for Azure Pipelines docs
-[![Build Status](https://dev.azure.com/alejandrovelasco94/Technical%20Test%20-%20Applaudo%20Studios/_apis/build/status/avelasco-p.pipelines-javascript?branchName=develop)](https://dev.azure.com/alejandrovelasco94/Technical%20Test%20-%20Applaudo%20Studios/_build/latest?definitionId=8?branchName=develop)
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
