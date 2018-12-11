@@ -1,5 +1,5 @@
 # Sample NodeJS application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/al3jandro1994/Applaudo%20Studios%20Technical%20Challenge/_apis/build/status/CI%20Pipeline?branchName=master)](https://dev.azure.com/al3jandro1994/Applaudo%20Studios%20Technical%20Challenge/_build/latest?definitionId=1?branchName=master)
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
